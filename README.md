@@ -5,4 +5,5 @@ URL - https://restful-booker.herokuapp.com/apidoc/index.html
 -> Used POST method to create 
 <br>
 -> Used PATCH method to update
+<br>
 -> Used GET method to get the entry created using POST
